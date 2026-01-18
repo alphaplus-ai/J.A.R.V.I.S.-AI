@@ -1,4 +1,4 @@
-# 🤖 Jarvis AI — Offline Voice Assistant (Python + Ollama)
+# 🤖 JARVIS AI — Offline Voice Assistant (Python + Ollama)
 
 Jarvis AI is a **fully offline, voice-controlled AI assistant** built using **Python**, **Speech Recognition**, and **Ollama**.  
 It listens to your voice 🎤, understands your commands 🧠, and responds back with speech 🔊 — **without any API keys, internet, or usage limits**.
