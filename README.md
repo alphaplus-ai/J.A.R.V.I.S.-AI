@@ -31,10 +31,3 @@ It listens to your voice 🎤, understands your commands 🧠, and responds back
 
 ---
 
-## 📦 Installation & Setup
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/jarvis-ai.git
-cd jarvis-ai
-
