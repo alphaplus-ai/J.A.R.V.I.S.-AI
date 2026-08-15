@@ -27,7 +27,7 @@ It listens to your voice 🎤, understands your commands 🧠, and responds back
 - **SpeechRecognition**
 - **Ollama**
 - **LLaMA 3 / Mistral models**
-- **macOS**
+- **macOS** and on any Operating System
 
 ---
 
